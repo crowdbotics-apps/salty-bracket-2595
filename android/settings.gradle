@@ -1,0 +1,3 @@
+rootProject.name = 'salty_bracket_2595'
+
+include ':app'
